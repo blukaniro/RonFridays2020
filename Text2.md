@@ -470,7 +470,6 @@ source("Fig2.r")
 source("Fig2long.r") #結果はFig2に同じ
 ```  
 
-https://github.com/blukaniro/RonFridays2020/blob/master/Fig1.r
 - [Fig1](https://github.com/blukaniro/RonFridays2020/blob/master/Fig1.pdf)
 - [Fig2](https://github.com/blukaniro/RonFridays2020/blob/master/Fig2.pdf)
 - [Fig1コード](https://github.com/blukaniro/RonFridays2020/blob/master/Fig1.r)
