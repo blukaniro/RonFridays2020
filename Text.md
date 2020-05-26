@@ -1,4 +1,4 @@
-R on Fridays Ryosuke TAJIMA 
+R on Fridays 2020 by Ryosuke TAJIMA 
 ==============  
   
 # 基本
@@ -22,7 +22,7 @@ length(moji) #数列の長さを計算
 
 ## 数列生成
 ```R  
-i<- seq(1, 40, by=1) # 1つずつ
+i <- seq(1, 40, by=1) # 1つずつ
 j <- seq(1,40, by=2) # 奇数のみ39まで
 i2 <- rep(i,2)
 i2each <- rep(i,each=2)
